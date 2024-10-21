@@ -7,4 +7,4 @@ This bicycle project showcases a sleek and modern design, made possible by the p
 # Tailwind CSS
 # DaisyUI
 
-Live Link:
+Live Link:https://jannatul-ferdousi-jannat.github.io/Tailwind-Project1/
